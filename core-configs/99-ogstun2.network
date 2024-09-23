@@ -1,0 +1,9 @@
+[Match]
+Name=ogstun2
+
+[Network]
+Address=10.50.0.1/16
+Address=2001:db8:ca12::1/48
+
+[Link]
+RequiredForOnline=false
